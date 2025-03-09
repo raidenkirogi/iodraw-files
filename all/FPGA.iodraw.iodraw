@@ -86,7 +86,7 @@
           <mxGeometry x="900" y="950" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Vv75hgPrvIRGVK0g1Ury-28" value="脉冲光源接受&lt;div&gt;- LVDS&lt;/div&gt;&lt;div&gt;- 脉宽&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="960" width="110" height="140" as="geometry" />
+          <mxGeometry x="1030" y="950" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Vv75hgPrvIRGVK0g1Ury-30" value="相机快门出发接口&lt;div&gt;- 快门信号生成&lt;/div&gt;&lt;div&gt;- 曝光时间控制&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="1310" y="950" width="180" height="190" as="geometry" />
