@@ -77,7 +77,7 @@
           <mxGeometry x="590" y="930" width="630" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Vv75hgPrvIRGVK0g1Ury-25" value="光电输入输出接口&lt;div&gt;- 触发信号捕获驱动&lt;/div&gt;&lt;div&gt;- 噪声滤波控制（100ns）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="630" y="960" width="140" height="140" as="geometry" />
+          <mxGeometry x="600" y="950" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Vv75hgPrvIRGVK0g1Ury-26" value="PPS信号输入接口&lt;div&gt;- 差分接受&lt;/div&gt;&lt;div&gt;- 边沿检测&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="790" y="960" width="125" height="140" as="geometry" />
@@ -85,7 +85,7 @@
         <mxCell id="Vv75hgPrvIRGVK0g1Ury-27" value="卫星输入接口&lt;div&gt;- RS422电平转换&lt;/div&gt;&lt;div&gt;- 时间戳同步&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="940" y="960" width="120" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Vv75hgPrvIRGVK0g1Ury-28" value="脉冲光源接受&lt;div&gt;- LVDS&lt;/div&gt;&lt;div&gt;- 脉宽&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Vv75hgPrvIRGVK0g1Ury-28" value="脉冲光源接受&lt;div&gt;- LVDS&lt;/div&gt;&lt;div&gt;- 脉宽&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1070" y="960" width="110" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Vv75hgPrvIRGVK0g1Ury-30" value="相机快门出发接口&lt;div&gt;- 快门信号生成&lt;/div&gt;&lt;div&gt;- 曝光时间控制&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" parent="1" vertex="1">
