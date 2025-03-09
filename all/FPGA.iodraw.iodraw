@@ -74,7 +74,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Vv75hgPrvIRGVK0g1Ury-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="590" y="930" width="630" height="200" as="geometry" />
+          <mxGeometry x="590" y="930" width="690" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Vv75hgPrvIRGVK0g1Ury-25" value="光电输入输出接口&lt;div&gt;- 触发信号捕获驱动&lt;/div&gt;&lt;div&gt;- 噪声滤波控制（100ns）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="600" y="950" width="140" height="100" as="geometry" />
@@ -89,7 +89,7 @@
           <mxGeometry x="1030" y="950" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Vv75hgPrvIRGVK0g1Ury-30" value="相机快门出发接口&lt;div&gt;- 快门信号生成&lt;/div&gt;&lt;div&gt;- 曝光时间控制&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="1290" y="960" width="180" height="100" as="geometry" />
+          <mxGeometry x="1140" y="950" width="130" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
