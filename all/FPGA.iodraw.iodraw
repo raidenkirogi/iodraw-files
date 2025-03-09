@@ -32,52 +32,52 @@
           <mxGeometry x="810" y="470" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vv75hgPrvIRGVK0g1Ury-14" value="AXI4-Lite总线（配置参数、状态反馈）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="900" y="670" width="230" height="30" as="geometry" />
+          <mxGeometry x="900" y="650" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vv75hgPrvIRGVK0g1Ury-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="700" width="490" height="190" as="geometry" />
+          <mxGeometry x="650" y="680" width="490" height="190" as="geometry" />
         </mxCell>
         <mxCell id="Vv75hgPrvIRGVK0g1Ury-17" value="时序控制和新模块&lt;div&gt;- 状态机调度&lt;/div&gt;&lt;div&gt;- 光电管信号处理&lt;/div&gt;&lt;div&gt;- 脉冲光源/相机出发逻辑&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="670" y="740" width="130" height="130" as="geometry" />
+          <mxGeometry x="670" y="720" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Vv75hgPrvIRGVK0g1Ury-18" value="高精度计数器与延时模块&lt;div&gt;- 100MHz计数器（66.7ns）&lt;/div&gt;&lt;div&gt;- 动态延时计算（T1，T2）&lt;/div&gt;&lt;div&gt;- 固有延迟补偿（3us）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="835" y="740" width="120" height="130" as="geometry" />
+          <mxGeometry x="835" y="720" width="120" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Vv75hgPrvIRGVK0g1Ury-19" value="&lt;div style=&quot;text-align: left;&quot;&gt;接口驱动与电平转换模块&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- 24V电源管理&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- LVDS输出驱动&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- 施密特输入整形&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="990" y="740" width="130" height="130" as="geometry" />
+          <mxGeometry x="990" y="720" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Vv75hgPrvIRGVK0g1Ury-20" value="ZYNQ PL（FPGA逻辑）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="815" y="700" width="160" height="30" as="geometry" />
+          <mxGeometry x="815" y="680" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vv75hgPrvIRGVK0g1Ury-21" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Vv75hgPrvIRGVK0g1Ury-17" target="Vv75hgPrvIRGVK0g1Ury-18" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="800" y="810" as="sourcePoint" />
-            <mxPoint x="850" y="760" as="targetPoint" />
+            <mxPoint x="800" y="790" as="sourcePoint" />
+            <mxPoint x="850" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Vv75hgPrvIRGVK0g1Ury-22" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="955" y="804.58" as="sourcePoint" />
-            <mxPoint x="990" y="804.58" as="targetPoint" />
+            <mxPoint x="955" y="784.58" as="sourcePoint" />
+            <mxPoint x="990" y="784.58" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Vv75hgPrvIRGVK0g1Ury-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="550" y="920" width="690" height="130" as="geometry" />
+          <mxGeometry x="550" y="900" width="690" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Vv75hgPrvIRGVK0g1Ury-25" value="光电输入输出接口&lt;div&gt;- 触发信号捕获驱动&lt;/div&gt;&lt;div&gt;- 噪声滤波控制（100ns）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="560" y="940" width="140" height="100" as="geometry" />
+          <mxGeometry x="560" y="920" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Vv75hgPrvIRGVK0g1Ury-26" value="PPS信号输入接口&lt;div&gt;- 差分接受&lt;/div&gt;&lt;div&gt;- 边沿检测&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="720" y="940" width="120" height="100" as="geometry" />
+          <mxGeometry x="720" y="920" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Vv75hgPrvIRGVK0g1Ury-27" value="卫星输入接口&lt;div&gt;- RS422电平转换&lt;/div&gt;&lt;div&gt;- 时间戳同步&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="860" y="940" width="110" height="100" as="geometry" />
+          <mxGeometry x="860" y="920" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Vv75hgPrvIRGVK0g1Ury-28" value="脉冲光源接口&lt;div&gt;- LVDS&lt;/div&gt;&lt;div&gt;- 脉宽&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="990" y="940" width="90" height="100" as="geometry" />
+          <mxGeometry x="990" y="920" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Vv75hgPrvIRGVK0g1Ury-30" value="相机快门出发接口&lt;div&gt;- 快门信号生成&lt;/div&gt;&lt;div&gt;- 曝光时间控制&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=left;" parent="1" vertex="1">
-          <mxGeometry x="1100" y="940" width="130" height="100" as="geometry" />
+          <mxGeometry x="1100" y="920" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="by47eNoCu4MuO_-YkAx--3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Vv75hgPrvIRGVK0g1Ury-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -85,10 +85,10 @@
             <mxPoint x="940" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="by47eNoCu4MuO_-YkAx--4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="by47eNoCu4MuO_-YkAx--4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Vv75hgPrvIRGVK0g1Ury-24" target="Vv75hgPrvIRGVK0g1Ury-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="900" y="920" as="sourcePoint" />
-            <mxPoint x="950" y="870" as="targetPoint" />
+            <mxPoint x="900" y="900" as="sourcePoint" />
+            <mxPoint x="950" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
