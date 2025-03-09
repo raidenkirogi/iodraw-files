@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="90a13364-a465-7bf4-72fc-28e22215d7a0">
-    <mxGraphModel dx="1426" dy="781" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -76,7 +76,7 @@
         <mxCell id="Vv75hgPrvIRGVK0g1Ury-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="930" width="630" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Vv75hgPrvIRGVK0g1Ury-25" value="光电输入输出接口&lt;div&gt;- 触发信号捕获驱动&lt;/div&gt;&lt;div&gt;- 噪声滤波控制（100ns）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Vv75hgPrvIRGVK0g1Ury-25" value="光电输入输出接口&lt;div&gt;- 触发信号捕获驱动&lt;/div&gt;&lt;div&gt;- 噪声滤波控制（100ns）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="630" y="960" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Vv75hgPrvIRGVK0g1Ury-26" value="PPS信号输入接口&lt;div&gt;- 差分接受&lt;/div&gt;&lt;div&gt;- 边沿检测&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
