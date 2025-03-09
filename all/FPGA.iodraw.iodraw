@@ -34,6 +34,9 @@
         <mxCell id="Vv75hgPrvIRGVK0g1Ury-14" value="AXI4-Lite总线（配置参数、状态反馈）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="900" y="650" width="230" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="by47eNoCu4MuO_-YkAx--6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vv75hgPrvIRGVK0g1Ury-16" target="Vv75hgPrvIRGVK0g1Ury-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Vv75hgPrvIRGVK0g1Ury-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="680" width="490" height="190" as="geometry" />
         </mxCell>
