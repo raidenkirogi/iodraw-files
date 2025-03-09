@@ -74,7 +74,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Vv75hgPrvIRGVK0g1Ury-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="970" width="630" height="200" as="geometry" />
+          <mxGeometry x="600" y="930" width="630" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Vv75hgPrvIRGVK0g1Ury-25" value="光电输入输出接口&lt;div&gt;- 触发信号捕获驱动&lt;/div&gt;&lt;div&gt;- 噪声滤波控制（100ns）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="1000" width="140" height="140" as="geometry" />
