@@ -74,22 +74,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Vv75hgPrvIRGVK0g1Ury-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="590" y="930" width="690" height="130" as="geometry" />
+          <mxGeometry x="550" y="920" width="690" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Vv75hgPrvIRGVK0g1Ury-25" value="光电输入输出接口&lt;div&gt;- 触发信号捕获驱动&lt;/div&gt;&lt;div&gt;- 噪声滤波控制（100ns）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="600" y="950" width="140" height="100" as="geometry" />
+          <mxGeometry x="560" y="940" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Vv75hgPrvIRGVK0g1Ury-26" value="PPS信号输入接口&lt;div&gt;- 差分接受&lt;/div&gt;&lt;div&gt;- 边沿检测&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="760" y="950" width="120" height="100" as="geometry" />
+          <mxGeometry x="720" y="940" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Vv75hgPrvIRGVK0g1Ury-27" value="卫星输入接口&lt;div&gt;- RS422电平转换&lt;/div&gt;&lt;div&gt;- 时间戳同步&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="900" y="950" width="110" height="100" as="geometry" />
+          <mxGeometry x="860" y="940" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Vv75hgPrvIRGVK0g1Ury-28" value="脉冲光源接受&lt;div&gt;- LVDS&lt;/div&gt;&lt;div&gt;- 脉宽&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="1030" y="950" width="90" height="100" as="geometry" />
+          <mxGeometry x="990" y="940" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Vv75hgPrvIRGVK0g1Ury-30" value="相机快门出发接口&lt;div&gt;- 快门信号生成&lt;/div&gt;&lt;div&gt;- 曝光时间控制&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="1140" y="950" width="130" height="100" as="geometry" />
+          <mxGeometry x="1100" y="940" width="130" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
